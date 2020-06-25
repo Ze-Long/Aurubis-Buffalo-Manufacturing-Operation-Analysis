@@ -21,4 +21,6 @@ Ridge Regression
 
 ## Machine Learning Interface
 
-![alt tag](https://github.com/Ze-Long/Ze-Long.github.io/blob/master/images/Tableau%20Dashboard.png)
+![alt tag](https://github.com/Ze-Long/Ze-Long.github.io/blob/master/images/Streamlit1.png)
+
+![alt tag](https://github.com/Ze-Long/Ze-Long.github.io/blob/master/images/Streamlit2.png)
