@@ -18,3 +18,7 @@ Ridge Regression
 ## Tableau Dashboard
 
 ![alt tag](https://github.com/Ze-Long/Ze-Long.github.io/blob/master/images/Tableau%20Dashboard.png)
+
+## Machine Learning Interface
+
+![alt tag](https://github.com/Ze-Long/Ze-Long.github.io/blob/master/images/Tableau%20Dashboard.png)
