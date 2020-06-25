@@ -27,4 +27,4 @@ Ridge Regression
 
 ## Final Result
 
-There's no big difference between the performance of these 4 models. However, lasso and ridge regression are more explainable compared to random forest and XGBoost. Our team built a tableau dashboard to explore the data and a machine learning interface for the clients to select models they like and see the prediction made by them.
+Our team use MSE to evaluate the models. It turns out that there's no big difference between the performance of these 4 models. However, lasso and ridge regression are more explainable compared to random forest and XGBoost. Our team built a tableau dashboard to explore the data and a machine learning interface for the clients to select models they like and see the prediction made by them.
