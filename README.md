@@ -24,3 +24,7 @@ Ridge Regression
 ![alt tag](https://github.com/Ze-Long/Ze-Long.github.io/blob/master/images/Streamlit1.png)
 
 ![alt tag](https://github.com/Ze-Long/Ze-Long.github.io/blob/master/images/Streamlit2.png)
+
+## Final Result
+
+There's no big difference between the performance of these 4 models. However, lasso and ridge regression are more explainable compared to random forest and XGBoost. Our team built a tableau dashboard to explore the data and a machine learning interface for the clients to select models they like and see the prediction made by them.
